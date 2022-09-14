@@ -11,7 +11,7 @@ package clases_ut03;
 public class Cafetera {
     private int capacidadMaxima;
     private int cantidadActual;
-    //cantidad Minima
+    //cantidad Minima marcada
     private int cantidadMinima;
     
     public Cafetera(){
